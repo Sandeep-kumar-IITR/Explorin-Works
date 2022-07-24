@@ -1,0 +1,98 @@
+Sr. No.,Symbol,Company Name,market_cap
+1,RELIANCE,Reliance Industries Limited,70603579.00
+2,TCS,Tata Consultancy Services Limited,68522297.00
+3,HINDUNILVR,Hindustan Unilever Limited,49758412.00
+4,HDFCBANK,HDFC Bank Limited,47248232.00
+5,HDFC,Housing Development Finance Corporation Limited,28235708.00
+6,INFY,Infosys Limited,27320750.00
+7,KOTAKBANK,Kotak Mahindra Bank Limited,24786522.00
+8,BHARTIARTL,Bharti Airtel Limited,24053552.00
+9,ITC,ITC Limited,21105761.00
+10,ICICIBANK,ICICI Bank Limited,20954333.00
+11,SBIN,State Bank of India,17568098.00
+12,ASIANPAINT,Asian Paints Limited,15985031.00
+13,DMART,Avenue Supermarts Limited,14170071.00
+14,BAJFINANCE,Bajaj Finance Limited,13332226.00
+15,MARUTI,Maruti Suzuki India Limited,12954099.00
+16,HCLTECH,HCL Technologies Limited,11842434.00
+17,LT,Larsen & Toubro Limited,11349263.00
+18,WIPRO,Wipro Limited,11237966.00
+19,AXISBANK,Axis Bank Limited,10691225.00
+20,ULTRACEMCO,UltraTech Cement Limited,9365399.00
+21,HDFCLIFE,HDFC Life Insurance Company Limited,8907273.00
+22,COALINDIA,Coal India Limited,8630901.00
+23,ONGC,Oil & Natural Gas Corporation Limited,8592331.00
+24,SUNPHARMA,Sun Pharmaceutical Industries Limited,8452857.00
+25,NTPC,NTPC Limited,8331217.00
+26,POWERGRID,Power Grid Corporation of India Limited,8323459.00
+27,TITAN,Titan Company Limited,8289259.00
+28,DABUR,Dabur India Limited,7952671.00
+29,IOC,Indian Oil Corporation Limited,7686661.00
+30,BAJAJFINSV,Bajaj Finserv Limited,7306311.00
+31,PIDILITIND,Pidilite Industries Limited,6890482.00
+32,BPCL,Bharat Petroleum Corporation Limited,6874362.00
+33,HINDZINC,Hindustan Zinc Limited,6566146.00
+34,BRITANNIA,Britannia Industries Limited,6466072.00
+35,SBILIFE,SBI Life Insurance Company Limited,6410000.00
+36,SHREECEM,SHREE CEMENT LIMITED,6330854.00
+37,BAJAJ-AUTO,Bajaj Auto Limited,5852014.00
+38,SBICARD,SBI Cards and Payment Services Limited,5808856.00
+39,TECHM,Tech Mahindra Limited,5461323.00
+40,GODREJCP,Godrej Consumer Products Limited,5324704.00
+41,DIVISLAB,Divi's Laboratories Limited,5280303.00
+42,DRREDDY,Dr. Reddy's Laboratories Limited,5185536.00
+43,ICICIPRULI,ICICI Prudential Life Insurance Company Limited,5107327.00
+44,ADANIPORTS,Adani Ports and Special Economic Zone Limited,5105792.00
+45,ICICIGI,ICICI Lombard General Insurance Company Limited,4915348.00
+46,BERGEPAINT,Berger Paints (I) Limited,4835740.00
+47,HDFCAMC,HDFC Asset Management Company Limited,4492424.00
+49,INDIGO,InterGlobe Aviation Limited,4102506.00
+50,SIEMENS,Siemens Limited,3965043.00
+51,EICHERMOT,Eicher Motors Limited,3575779.00
+52,MARICO,Marico Limited,3548161.00
+53,M&M,Mahindra & Mahindra Limited,3542477.00
+54,JSWSTEEL,JSW Steel Limited,3535185.00
+55,MCDOWELL-N,United Spirits Limited,3521291.00
+56,GAIL,GAIL (India) Limited,3452514.00
+57,CIPLA,Cipla Limited,3409166.00
+58,COLPAL,Colgate Palmolive (India) Limited,3407164.00
+59,DLF,DLF Limited,3402321.00
+60,TORNTPHARM,Torrent Pharmaceuticals Limited,3336734.00
+61,PGHH,Procter & Gamble Hygiene and Health Care Limited,3333507.00
+62,BANDHANBNK,Bandhan Bank Limited,3280820.00
+63,BIOCON,Biocon Limited,3246600.00
+64,HEROMOTOCO,Hero MotoCorp Limited,3188739.00
+65,GRASIM,Grasim Industries Limited,3131781.00
+66,AMBUJACEM,Ambuja Cements Limited,3091650.00
+67,TATASTEEL,Tata Steel Limited,3037016.00
+68,HAVELLS,Havells India Limited,3006670.00
+69,PETRONET,Petronet LNG Limited,2995500.00
+71,HINDPETRO,Hindustan Petroleum Corporation Limited,2896787.00
+72,YESBANK,Yes Bank Limited,2817581.00
+73,ALKEM,Alkem Laboratories Limited,2780903.00
+74,BOSCHLTD,Bosch Limited,2771090.00
+76,IGL,Indraprastha Gas Limited,2715653.00
+77,LUPIN,Lupin Limited,2669907.00
+78,UPL,UPL Limited,2494608.00
+79,NAUKRI,Info Edge (India) Limited,2489195.00
+80,LTI,Larsen & Toubro Infotech Limited,2486562.00
+81,BANKBARODA,Bank of Baroda,2474313.00
+82,MRF,MRF Limited,2466837.00
+83,MUTHOOTFIN,Muthoot Finance Limited,2457901.00
+84,NMDC,NMDC Limited,2449480.00
+85,INDUSINDBK,IndusInd Bank Limited,2436375.00
+86,UBL,United Breweries Limited,2429487.00
+87,PFC,Power Finance Corporation Limited,2427555.00
+88,AUROPHARMA,Aurobindo Pharma Limited,2420805.00
+89,VEDL,Vedanta Limited,2405026.00
+90,ADANIGREEN,Adani Green Energy Limited,2396852.00
+91,WHIRLPOOL,Whirlpool of India Limited,2307672.00
+92,HONAUT,Honeywell Automation India Limited,2289123.00
+93,TATAMOTORS,Tata Motors Limited,2194716.00
+94,PNB,Punjab National Bank,2179603.00
+95,HINDALCO,Hindalco Industries Limited,2149482.00
+96,GLAXO,GlaxoSmithKline Pharmaceuticals Limited,2130111.00
+97,3MINDIA,3M India Limited,2120982.00
+98,PEL,Piramal Enterprises Limited,2119007.00
+99,KANSAINER,Kansai Nerolac Paints Limited,2088044.00
+100,ADANITRANS,Adani Transmission Limited,2079191.00

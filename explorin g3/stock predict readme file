@@ -1,0 +1,24 @@
+Hello ,
+This is sandeep,
+This project is assign to me by explorin .
+In this project i fetch previous data of company and train system to predict the next day nature of stock .
+
+I know it is not possible but after training i find its accuracy is about 59%
+
+Now i want to discuss the scemas:
+
+1 -> for a company let 'TCS' 
+2 -> fetch stock history of 1000 day from day before yesterday
+3 -> add a column called change , it value is 0 if stock is not in loss on that day
+4 -> now make change column as the dependent variable. in simple word my trained system find it. (say y)
+5 -> after droping some unuseful column all the remanings are depending variable (say x)
+
+6 ->  now delete 1st row of y and last row of x 
+7 -> so by using previous our goal to predict change of next day
+
+8 -> now split data in train and test as 70% is training data set
+
+9 -> now this is time to apply logistic regression and visualization
+
+10 -> at the end i take data of yesterday and predict the stock value of tommorow 
+11 -> and finally i export a csv file its name is of next day and it cointain change of next day and accuracy 
